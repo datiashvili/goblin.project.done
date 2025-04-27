@@ -1,1 +1,1 @@
-# goblin.project.done
+# CLASH-OF-CLANS
